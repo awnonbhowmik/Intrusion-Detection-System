@@ -1,0 +1,5 @@
+scapy
+Flask
+twilio
+requests  # For making HTTP requests
+sqlalchemy  # For database interactions
